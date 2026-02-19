@@ -83,6 +83,14 @@ nav a:hover {
     text-decoration: underline;
 }
 
+/* 🔹 Примечания и служебный текст */
+.note {
+    color: var(--secondary-text-color); /* #555 */
+    font-style: italic;
+    margin-top: 10px;
+    margin-bottom: 22px;
+}
+
 /* Подсветка текущей страницы */
 nav a.current {
     font-weight: bold;
