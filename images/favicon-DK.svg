@@ -2,6 +2,6 @@
   <!-- круглый фон -->
   <circle cx="32" cy="32" r="32" fill="#fcfcfa"/>
   
-  <!-- текст DK -->
-  <text x="50%" y="50%" font-family="Baskerville, serif" font-size="32" fill="#344c3d" text-anchor="middle" dominant-baseline="central">DK</text>
+  <!-- текст DK с микро-внутренним отступом -->
+  <text x="50%" y="50%" font-family="Baskerville, serif" font-size="28" fill="#344c3d" text-anchor="middle" dominant-baseline="central">DK</text>
 </svg>
