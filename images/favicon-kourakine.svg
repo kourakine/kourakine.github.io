@@ -1,7 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
-  <!-- круглый фон -->
-  <circle cx="32" cy="32" r="32" fill="#fcfcfa"/>
-  
-  <!-- текст kourakine -->
-  <text x="50%" y="50%" font-family="Garamond, serif" font-size="12" fill="#344c3d" text-anchor="middle" dominant-baseline="central">kourakine</text>
-</svg>
