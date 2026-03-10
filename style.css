@@ -153,3 +153,8 @@ footer {
         font-size: 26px;
     }
 }
+.photo-credit {
+    font-size: 0.75em;
+    color: #888;
+    letter-spacing: 0.02em; /* микро-интервал для аккуратности */
+}
