@@ -154,7 +154,7 @@ footer {
     }
 }
 .photo-credit {
-    font-size: 0.75em;
+    font-size: 0.85em;
     color: #888;
     letter-spacing: 0.02em; /* микро-интервал для аккуратности */
      display: block;          /* перенос на отдельную строку */
